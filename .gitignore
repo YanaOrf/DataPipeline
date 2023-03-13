@@ -1,0 +1,9 @@
+*.dist-info
+*.zip
+*.txt
+save_package
+save_google
+api_request_package
+service_account
+*.json
+service_account.json
